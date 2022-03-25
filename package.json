@@ -16,7 +16,6 @@
   "author": "iCodeng",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.3",
     "macaddress": "^0.5.2"
   }
 }
