@@ -1,5 +1,5 @@
 {
-  "name": "icode",
+  "name": "lbanrights",
   "version": "1.0.0",
   "description": "lban license",
   "main": "index.js",
@@ -11,9 +11,9 @@
     "url": "lotusbetaanalytics"
   },
   "keywords": [
-    "icode"
+    "lban"
   ],
-  "author": "iCode",
+  "author": "iCodeng",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.3",
