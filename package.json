@@ -1,6 +1,6 @@
 {
   "name": "lbanrights",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "lban license",
   "main": "index.js",
   "scripts": {
